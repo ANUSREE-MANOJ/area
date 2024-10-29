@@ -9,7 +9,7 @@ public class Rectangle {
      * Constructs a new Rectangle with specified width and length.
      *
      * @param width  The width of the rectangle.
-     
+     *  @param length 
      * @param height The height of the rectangle.
      */
     public Rectangle(double width, double height) {
