@@ -9,9 +9,10 @@ public class Rectangle {
      * Constructs a new Rectangle with specified width and length.
      *
      * @param width  The width of the rectangle.
-     * @param area 
+     * @param area
+     * @param length
      * @param height The height of the rectangle.
-     */
+     */ 
     public Rectangle(double width, double height) {
         this.width = width;
         this.height = height;
@@ -19,6 +20,7 @@ public class Rectangle {
 
     /**
      * Gets the width of the rectangle.
+     * gets the width and length of the rectangle
      *
      * @return The width of the rectangle.
      */
